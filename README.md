@@ -4,6 +4,10 @@ A PDF question-answering chatbot built using **Streamlit, Google Gemini, LangCha
 
 The application allows users to upload a PDF document and ask questions about its content. RagBot retrieves the most relevant sections from the document and uses Gemini to generate a clear answer based only on the uploaded PDF.
 
+## Live Demo
+
+[View the deployed website](https://github.com/Anu0113/Rag-ChatBot)
+
 ---
 
 ## Project Overview
