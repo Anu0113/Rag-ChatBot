@@ -6,7 +6,7 @@ The application allows users to upload a PDF document and ask questions about it
 
 ## Live Demo
 
-[View the deployed website](https://github.com/Anu0113/Rag-ChatBot)
+[View the deployed website](https://rag-chatbot-pdf-assistant.streamlit.app/)
 
 ---
 
